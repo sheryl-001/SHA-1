@@ -1,1 +1,1 @@
-# Implementation-of-SHA-1-Hash
+# SHA-1
